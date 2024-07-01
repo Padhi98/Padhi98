@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/Padhi98/" style="max-width: 100%;" alt="Welcome to my Github Profile" />
+  <img src="images/welcome.png" style="max-width: 100%;" alt="Welcome to my Github Profile" />
   <br />
   <br />
   <img height="50" alt="My Name is Ankita and I like Google Cloud" src="images/personal_note.svg" />
