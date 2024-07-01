@@ -32,3 +32,12 @@
 <strong>Listen to cool music</strong>
 <br />
 <br />
+
+<p>
+<img height="100" alt="Music" src="images/music.gif"> 
+</a>
+</p>
+
+</td>
+</tr>
+</table>
