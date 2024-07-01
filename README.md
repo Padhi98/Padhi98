@@ -48,7 +48,8 @@
 
 <img height="120" alt="Thanks for visiting me" width="100%" src="/images/marquee.svg" />
 <br />
-
+<br />
+<br />
 
 <img src="images/notepad.gif" alt="Site created with Notepad" height="30" />
 <!-- "margin-right: whatever;" -->
