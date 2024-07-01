@@ -34,7 +34,7 @@
 <br />
 
 <p>
-<img height="100" alt="Music" src="images/music.gif"> 
+<img height="100" alt="Music" src="images/Musician.gif"> 
 </a>
 </p>
 
