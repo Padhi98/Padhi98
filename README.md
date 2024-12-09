@@ -12,7 +12,7 @@
 <table width="100%" align="center">
 <tr>
 <td align="center">
-<a href="https://www.ankitapadhi.com">
+<a href="https://ankitapadhi.com/">
 <strong>Visit my personal website </strong>
 <br />
 <br />
